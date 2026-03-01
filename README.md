@@ -1,4 +1,6 @@
 ## Hi there 👋
+- I’m currently planning on ...
+  * Making Autocheckout Bot for Shoppee/Lazada
 - 🔭 I’m currently working on ...
 
 
